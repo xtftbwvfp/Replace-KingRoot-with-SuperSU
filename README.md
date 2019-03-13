@@ -9,7 +9,7 @@ after finished
 `sh /sdcard/mrw/suinstall.sh`
 
 after rebooting  
-`su`
+`su`  
 `sh /sdcard/mrw/postuninstall.sh`
 
 Enjoy !
