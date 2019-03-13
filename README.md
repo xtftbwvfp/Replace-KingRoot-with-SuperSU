@@ -5,10 +5,10 @@ Download [Terminal Emulator](https://play.google.com/store/apps/details?id=jackp
 `su
 sh /sdcard/mrw/root.sh`
 
-after finished
+after finished  
 `sh /sdcard/mrw/suinstall.sh`
 
-after rebooting
+after rebooting  
 `su
 sh /sdcard/mrw/postuninstall.sh`
 
